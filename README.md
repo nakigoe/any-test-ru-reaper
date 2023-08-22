@@ -34,7 +34,7 @@ To import into the Moodle questions bank the generated `xml` file, see my other 
 
 <p style="margin: 0 auto" align="center">All rights reserved and no permissions are granted.</p>
 
-<p style="margin: 0 auto" align="center">Please add stars the repositories!</p>
+<p style="margin: 0 auto" align="center">Please add stars to the repositories!</p>
 
 <hr>
 
