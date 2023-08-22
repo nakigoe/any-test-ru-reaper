@@ -4,7 +4,7 @@
 
 <b>The script collects questions, answers and dummies for the specified test and stores them both in `txt` format to prepare for the test (only correct answers), and in `xml` format (all answers) to import into the Moodle questions bank.</b>
 
-To import into the Moodle questions bank the generated `xml` file, see my other repository: <a href="https://github.com/nakigoe/moodle-bank" target="_blank">github.com/nakigoe/moodle-bank</a>
+To import into the Moodle questions bank the generated `xml` file, cast an eye on my other repository: <a href="https://github.com/nakigoe/moodle-bank" target="_blank">github.com/nakigoe/moodle-bank</a>
 
 ## How To Use
 
