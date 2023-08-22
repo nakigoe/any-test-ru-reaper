@@ -24,7 +24,7 @@ To import into the Moodle questions bank the generated `xml` file, see my other 
 
   •  Selenium `pip install selenium`
 
-### Send a connection request and a message to them All!
+### Harvest them All!
 
   •  double-click on `start.bat`
 
@@ -65,7 +65,7 @@ Moodle の問題バンクに生成された `xml` ファイルをインポート
 
   •  Selenium `pip install selenium`
 
-### すべての方々へ友達リクエストとメッセージをお送りくださいませ！
+### すべてを収集する！
 
   •  `start.bat` をダブルクリックをなさってください。
 
@@ -103,7 +103,7 @@ Moodle の問題バンクに生成された `xml` ファイルをインポート
 
   •  Selenium `pip install selenium`
   
-### Запускайте, приглашение в контакты и сообщение — каждому!
+### Сохраняйте весь тест на здоровье!
 
   •  двойной щелчок мыши по `start.bat`
 
